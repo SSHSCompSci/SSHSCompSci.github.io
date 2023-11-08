@@ -1,3 +1,3 @@
 # SSHSCompSci.github.io
-gooberville
+# gooberville
 where the fortunate come to praise
