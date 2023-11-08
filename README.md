@@ -1,3 +1,6 @@
 # SSHSCompSci.github.io
-# gooberville
-where the fortunate come to praise
+```js
+We are Sulphur Springs High School's Computer Science Class! 😄
+
+```
+
