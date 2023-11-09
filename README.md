@@ -7,7 +7,7 @@ So far this year we have...
   <details close>
   <summary>We took apart, cleaned and reconstructerd a pc.</summary>
    
-  ![cool computer stuff](computador.jpg)
+  ![cool computer stuff](SSHSCompSci.github.io/assets/computador.jpg)
    </details>
  - We have built mutliple websites (Including this one!)
  - We have set up our own private network.
