@@ -13,6 +13,6 @@ So far this year we have...
  - We have set up our own private network.
 
 
- 
+ ![cool computer stuff](https://cdn.britannica.com/79/191679-050-C7114D2B/Adult-capybara.jpg).
 
 
